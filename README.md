@@ -1,3 +1,6 @@
+FUTURE_DS_02
+Power BI Dashboard: Social Media Campaign Performance Tracker with ROI, CPS, Spend & Product Sales analysis
+
 # Task 2: Social Media Campaign Performance Tracker
 
 🎯 **Internship Task:** Future Interns – Data Science & Analytics  
